@@ -1,0 +1,1 @@
+these were connected through mongodb compass and allow us to view media and content such as product images, etc.

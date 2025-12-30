@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "693595b3a131f83a971b3fe4"
+  },
+  "username": "fizzazehra",
+  "email": "fizzaalwani2978@gmail.com",
+  "password": "$2b$10$rq/CJuvBwJtQnLSGLoJUuO4KXrx7oHNDH6Jl1zVVjSuUknbl3CRIS",
+  "date": {
+    "$date": "2025-12-07T14:56:51.060Z"
+  },
+  "__v": 0,
+  "cartData": {
+    "PK-103": 1,
+    "PW-106": 1
+  }
+}]

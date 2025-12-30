@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "693590f4e189cf052aac5345"
+  },
+  "productId": {
+    "$oid": "69358f48e189cf052aac530f"
+  },
+  "name": "Abbas",
+  "email": "abbasalwani@gmail.com",
+  "review": "very smooth fabric",
+  "approved": true,
+  "rating": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69359111e189cf052aac534b"
+  },
+  "productId": {
+    "$oid": "69358afa21f816701c4172d7"
+  },
+  "name": "Fizza",
+  "email": "fizzaalwani2978@gmail.com",
+  "review": "loved the quality",
+  "approved": true,
+  "rating": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6935912de189cf052aac534d"
+  },
+  "productId": {
+    "$oid": "69358afa21f816701c4172d7"
+  },
+  "name": "Abiha",
+  "email": "abihaalwani@gmail.com",
+  "review": "loved the quality",
+  "approved": true,
+  "rating": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69359153e189cf052aac5353"
+  },
+  "productId": {
+    "$oid": "693589a821f816701c4172bc"
+  },
+  "name": "aniba",
+  "email": "anibazehra@gmail.com",
+  "review": "The best quality Ive come across ",
+  "approved": true,
+  "rating": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6935917be189cf052aac5355"
+  },
+  "productId": {
+    "$oid": "693589a821f816701c4172bc"
+  },
+  "name": "Banafsha",
+  "email": "banafshazehra@gmail.com",
+  "review": "nice material",
+  "approved": true,
+  "rating": 4,
+  "__v": 0
+}]

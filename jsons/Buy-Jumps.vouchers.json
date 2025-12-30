@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "69359041e189cf052aac532d"
+  },
+  "code": "WINTERSALE",
+  "expiryDate": {
+    "$date": "2025-12-28T00:00:00.000Z"
+  },
+  "discount": 25,
+  "createdAt": {
+    "$date": "2025-12-07T14:33:37.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-07T14:33:37.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69359052e189cf052aac5330"
+  },
+  "code": "QUAIDDAY",
+  "expiryDate": {
+    "$date": "2025-12-26T00:00:00.000Z"
+  },
+  "discount": 50,
+  "createdAt": {
+    "$date": "2025-12-07T14:33:54.532Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-07T14:33:54.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69359069e189cf052aac5333"
+  },
+  "code": "AISHA_DAY",
+  "expiryDate": {
+    "$date": "2026-01-12T00:00:00.000Z"
+  },
+  "discount": 44,
+  "createdAt": {
+    "$date": "2025-12-07T14:34:17.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-07T14:34:17.577Z"
+  },
+  "__v": 0
+}]
